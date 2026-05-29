@@ -1,0 +1,3 @@
+# 03 - AI Log
+
+Em sử dụng AI như một trợ lý của bản thân mình trong quá trình học ngày 2 tại AI Thực chiến. AI giúp em khởi động nhanh ở giai đoạn đầu: gợi ý các hướng brainstorm, đề xuất workflow và tiêu chí đo lường, đồng thời hỗ trợ rà một số lỗi Python khi tích hợp Gemini SDK. Nhờ đó, tôi tiết kiệm được thời gian ở các phần lặp lại và có thêm góc nhìn để so sánh phương án. Tuy nhiên, phần cốt lõi của bài làm vẫn phải do em và nhóm tự quyết định. Chúng tôi tự chọn bài toán bám thực tế vận hành, tự kiểm tra tính khả thi, tự cân nhắc rủi ro và hoàn thiện logic. Trong quá trình làm, em có phát hiện ra AI đôi lúc vẫn đưa ra gợi ý chưa phù hợp, chẳng hạn đề xuất cách tiếp cận quá phức tạp hoặc hướng xử lý chưa đủ an toàn trong tình huống pin thấp.
